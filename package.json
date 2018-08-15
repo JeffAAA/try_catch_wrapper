@@ -1,0 +1,18 @@
+{
+  "name": "try_catch_wrapper",
+  "version": "1.0.0",
+  "description": "利用ast异常捕获的一种实现",
+  "main": "index.js",
+  "scripts": {
+    "start": "babel input.js -o output.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-cli": "6.26.0"
+  },
+  "dependencies": {
+    "babel-template": "6.26.0"
+  }
+}
