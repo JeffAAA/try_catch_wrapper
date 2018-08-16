@@ -16,6 +16,6 @@ npm i
 npm start	
 ```
 
-源代码**input.js**将会被自动给函数加上try/catch。
+源代码**input.js**将会被自动给所有的函数加上try/catch。
 
 打开根目录下的**output.js**即可看到转换后的代码。
